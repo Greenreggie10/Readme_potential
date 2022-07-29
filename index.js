@@ -14,33 +14,33 @@ const questions =  [
 {
     type: 'input',
     name: 'Descriptions',
-    message: '?',
+    message: 'Please give a project description.',
 },
 {
     type: 'input',
     name: 'Installation',
-    message: 'what is your the name of your project?',
+    message: 'How would you a user install this application?',
 },
 {
     type: 'input',
     name: 'Usages',
-    message: 'what is your the name of your project?',
+    message: 'Whats are the users step by step usage for this application?',
 },
 {
-    type: 'lists',
+    type: 'list',
     name: 'Licenses',
-    message: 'what is your ',
+    message: 'What is your perferred licesnes choices?  ',
     choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', ]
 },
 {
     type: 'input',
     name: 'Contributing',
-    message: 'what is your the name of your project?',
+    message: 'Can you specify all contributors to this application? ',
 },
 {
     type: 'input',
     name: 'Tests',
-    message: 'what is your the name of your project?',
+    message: 'What test will this application apply to users?',
 },
 
 
