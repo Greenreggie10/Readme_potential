@@ -5,32 +5,27 @@
 ## Description
 
 
-it is a professional readme
+this is a promopt for a readme 
 
 
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [readme_potential](#readme_potential)
-  - [Description](#description)
-  - [Table of Contents (Optional)](#table-of-contents-optional)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Badges](#badges)
-  - [Tests](#tests)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
-he/she would download my github then click live demo 
+go to github and click on live demo in readme 
 
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-test
+fill in the questions to best of ability 
 
 
 ## Credits
@@ -51,10 +46,5 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 
 ## Tests
 
-they will be prompted a readme
-
-
-
-
-https://drive.google.com/file/d/1Mz4pYNpR58aHHNq7jrXTsOqCkrL1W0ED/view
+this will provide and test the ability to get a readme
 
