@@ -5,7 +5,7 @@
 ## Description
 
 
-this is a promopt for a readme 
+this app is a high quality Readme generator. it provides the developer to save time as they type the correct answer in prompted questions
 
 
 ## Table of Contents (Optional)
@@ -19,18 +19,18 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-go to github and click on live demo in readme 
+First, they would upload the repo through git clone. Then install the npm package.next run node index to generate the prompted questions in the command line 
 
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-fill in the questions to best of ability 
+Once you have the promted questions pulled up in command line, you can answer each question to best of your abilty. each answer is stored in the read me file that will be produce upon completion of all the questions 
 
 
 ## Credits
 
-si greenreggie10-github
+https://github.com/Greenreggie10
 
 ## License
 
@@ -46,5 +46,5 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 
 ## Tests
 
-this will provide and test the ability to get a readme
+Each tested qustion will provide the answer the developer needs to complete the high quality Readme
 

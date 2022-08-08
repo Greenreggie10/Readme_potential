@@ -13,11 +13,11 @@
 
 ## !-- sites URL-->
 
-[Watch live demo]();
+[Watch live demo](https://drive.google.com/file/d/1y9ISrFe-YeZxTFSUydaJe0qXAod5LmN-/view);
 
 Utilizing this app is simple with Node.js:
 
-1. From the command line, clone the repo to your local machine using `git clone git@github.com:bpiper91/readme-generator.git`.
+1. From the command line, clone the repo to your local machine using `git clone`.
 
 2. Navigate into the root directory and run `npm install` to install the necessary packages.
 
@@ -29,7 +29,7 @@ Utilizing this app is simple with Node.js:
 
 ## !-- stillshot of site -->
 High quailty Readme is generated from the responses enetered in command-line:
-![alt text]()
+![alt text](.main/../main/images/Screenshot%20(Readme).png)
 
 ## !-- description of the site purpose -->
 
@@ -56,4 +56,4 @@ REGINALD GREEN
 "inital"    
 "questions to ask"    
 "readme modified"    
- 
+"readme edit"
