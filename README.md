@@ -1,60 +1,59 @@
+!-- Title 
+
 # readme_potential
-   
 
 
-## Description
+## !-- list of technologies used -->
 
+/*The website is built and developed using Visual Studio Code (VS Code).
+/*javascript was used to create the app's content.
+/*package.json&npm init was used to style and format the dashboard.
+/*All answers to produces a quality ReadMe are enetered into the terminal.
+/*Github published the repository website.
 
-it is a professional readme
+## !-- sites URL-->
 
+[Watch live demo]();
 
-## Table of Contents (Optional)
+Utilizing this app is simple with Node.js:
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+1. From the command line, clone the repo to your local machine using `git clone git@github.com:bpiper91/readme-generator.git`.
 
-- [readme_potential](#readme_potential)
-  - [Description](#description)
-  - [Table of Contents (Optional)](#table-of-contents-optional)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Badges](#badges)
-  - [Tests](#tests)
+2. Navigate into the root directory and run `npm install` to install the necessary packages.
 
-## Installation
+3. Once the installation has finished, run `node index` to initialize the application.
 
-he/she would download my github then click live demo 
+4. Follow the prompts to provide your GitHub username, email address, project title, project description, etc., and click enter after each response. (For the license question, use the Up and Down arrow keys to navigate through the list and click enter. Use the `No License` option at the top of the list if you want to skip that section in the README.)
 
-## Usage
+5. Once you have answered all of the questions, you should get a message that a README.md file has been created successfully. You can find it by running `cd output` to access the output directory and then opening `README.md` in your preferred code editor.
 
-Provide instructions and examples for use. Include screenshots as needed.
+## !-- stillshot of site -->
+High quailty Readme is generated from the responses enetered in command-line:
+![alt text]()
 
-test
+## !-- description of the site purpose -->
 
+[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
-## Credits
-
-si greenreggie10-github
-
-## License
-
-APACHE 2.0
-
-🏆 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-
-## Tests
-
-they will be prompted a readme
+The link above shows a high-quality README for the app.  To help developers save time, this command-line application takes some user input and quickly generates a professional README.md file for their GitHub repo.
 
 
 
+## !--Testing && Results -->
+/*coding the display of readme           
+/*github was difficult to differentiate between to produced results and the initial readme.md 
 
-https://drive.google.com/file/d/1Mz4pYNpR58aHHNq7jrXTsOqCkrL1W0ED/view
+## !-- author & contributors -->
 
+REGINALD GREEN
+
+[Github](https://github.com/Greenreggie10/)
+
+[Email](reggie.green10@yahoo.com)
+
+## !-- updates -->
+
+"inital"    
+"questions to ask"    
+"readme modified"    
+ 
